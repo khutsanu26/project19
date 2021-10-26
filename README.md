@@ -1,5 +1,5 @@
 # server
-## Калькулятор расчёта размера платы за электроснабжение (серверное приложение)
+## Калькулятор расчёта кредита за автомобиль (десктопное приложение)
 [![Build Status](https://project26.usatu.su/jenkins/buildStatus/icon?job=Project26_CID)](https://project26.usatu.su/jenkins/job/Project26_CID/)
 
 ## Описание репозитория
